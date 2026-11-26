@@ -2,6 +2,8 @@
 
 ### A Comparative Study of Adaptive CUR-Inspired Landmark Attention and Standard Self-Attention on IMDb
 
+![Efficient Transformers Thumbnail](images/transformer-thumbnail.png)
+
 ![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.11.0-EE4C2C?logo=pytorch&logoColor=white)
 ![Dataset](https://img.shields.io/badge/Dataset-IMDb-yellow)
