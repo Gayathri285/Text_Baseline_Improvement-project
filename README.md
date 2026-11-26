@@ -306,11 +306,4 @@ https://doi.org/10.1007/s10994-025-06768-3
 *Learn · Experiment · Compare · Improve*
 
 
-Text_Baseline_Improvement-project/
-│
-├── images/
-│   └── transformer-thumbnail.png
-│
-├── README.md
-│
-└── Other project files...
+
